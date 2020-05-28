@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://175.47.244.18/zhgd_20200522.ipa</string>
+<string>http://203.90.130.234:8082/app/zhgd.ipa</string>
 <key>New item</key>
 <string></string>
 </dict>
